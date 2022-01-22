@@ -1,0 +1,10 @@
+sep=,
+"HGNC ID (gene)","Approved symbol","Approved name","Previous symbols","Aliases","Chromosome"
+"HGNC:11620","ELOA","elongin A","TCEB3","SIII,TCEB3A","1p36.11"
+"HGNC:30771","ELOA2","elongin A2","TCEB3B","HsT832,TCEB3L","18q21.1"
+"HGNC:24617","ELOA3","elongin A3","TCEB3C","HsT829,TCEB3L2,ELOA3A","18q21.1"
+"HGNC:31007","ELOA3B","elongin A3 family member B","TCEB3CL","HsT828","18q21.1"
+"HGNC:52410","ELOA3C","elongin A3 family member C","","","18q21.1"
+"HGNC:33511","ELOA3D","elongin A3 family member D","TCEB3CL2","","18q21.1"
+"HGNC:11619","ELOB","elongin B","TCEB2","SIII","16p13.3"
+"HGNC:11617","ELOC","elongin C","TCEB1","SIII","8q21.11"

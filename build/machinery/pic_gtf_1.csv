@@ -1,0 +1,8 @@
+sep=,
+"HGNC ID (gene)","Approved symbol","Approved name","Previous symbols","Aliases","Chromosome"
+"HGNC:4648","GTF2B","general transcription factor IIB","","TFIIB","1p22.2"
+"HGNC:11588","TBP","TATA-box binding protein","GTF2D1,SCA17","TFIID","6q27"
+"HGNC:4659","GTF2I","general transcription factor IIi","WBSCR6","TFII-I,BAP-135,SPIN,BTKAP1,DIWS,IB291","7q11.23"
+"HGNC:11612","TCEA1","transcription elongation factor A1","TCEA,GTF2S","SII,TF2S,TFIIS","8q11.23"
+"HGNC:4662","GTF3A","general transcription factor IIIA","","TFIIIA,AP2","13q12.2"
+"HGNC:11551","BRF1","BRF1 RNA polymerase III transcription initiation factor subunit","TAF3B2,TAF3C,GTF3B","TFIIIB90,BRF,hBRF","14q32.33"

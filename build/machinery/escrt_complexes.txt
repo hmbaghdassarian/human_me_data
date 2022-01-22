@@ -1,0 +1,31 @@
+HGNC ID	Approved symbol	Approved name	Status	Locus type	Previous symbols	Alias symbols	Chromosome	NCBI Gene ID	Ensembl gene ID	Vega gene ID	Group ID	Group name
+HGNC:4897	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	Approved	gene with protein product		Hrs, ZFYVE8, Vps27	17q25.3	9146	ENSG00000185359	OTTHUMG00000178109	1115	ESCRT-0
+HGNC:11357	STAM	signal transducing adaptor molecule	Approved	gene with protein product		STAM1	10p12.33	8027	ENSG00000136738	OTTHUMG00000017749	1115	ESCRT-0
+HGNC:11358	STAM2	signal transducing adaptor molecule 2	Approved	gene with protein product		Hbp	2q23.3	10254	ENSG00000115145	OTTHUMG00000131885	1115	ESCRT-0
+HGNC:25153	MVB12A	multivesicular body subunit 12A	Approved	gene with protein product	FAM125A	FLJ32495	19p13.11	93343	ENSG00000141971	OTTHUMG00000166252	1116	ESCRT-I
+HGNC:23368	MVB12B	multivesicular body subunit 12B	Approved	gene with protein product	C9orf28, FAM125B	FLJ00001	9q33.3	89853	ENSG00000196814	OTTHUMG00000020687	1116	ESCRT-I
+HGNC:15971	TSG101	tumor susceptibility 101	Approved	gene with protein product	TSG10	VPS23	11p15.1	7251	ENSG00000074319	OTTHUMG00000167725	1116	ESCRT-I
+HGNC:12461	UBAP1	ubiquitin associated protein 1	Approved	gene with protein product	UBAP		9p13.3	51271	ENSG00000165006	OTTHUMG00000000430	1116	ESCRT-I
+HGNC:18178	VPS28	VPS28 subunit of ESCRT-I	Approved	gene with protein product			8q24.3	51160	ENSG00000160948	OTTHUMG00000165209	1116	ESCRT-I
+HGNC:24928	VPS37A	VPS37A subunit of ESCRT-I	Approved	gene with protein product	PQBP2	FLJ32642, HCRP1, SPG53	8p22	137492	ENSG00000155975	OTTHUMG00000130785	1116	ESCRT-I
+HGNC:25754	VPS37B	VPS37B subunit of ESCRT-I	Approved	gene with protein product		FLJ12750	12q24.31	79720	ENSG00000139722	OTTHUMG00000168767	1116	ESCRT-I
+HGNC:26097	VPS37C	VPS37C subunit of ESCRT-I	Approved	gene with protein product		FLJ20847	11q12.2	55048	ENSG00000167987	OTTHUMG00000167826	1116	ESCRT-I
+HGNC:18287	VPS37D	VPS37D subunit of ESCRT-I	Approved	gene with protein product	WBSCR24	MGC35352	7q11.23	155382	ENSG00000176428	OTTHUMG00000157227	1116	ESCRT-I
+HGNC:17028	SNF8	SNF8 subunit of ESCRT-II	Approved	gene with protein product		EAP30, VPS22, Dot3	17q21.32	11267	ENSG00000159210	OTTHUMG00000160569	1117	ESCRT-II
+HGNC:28122	VPS25	vacuolar protein sorting 25 homolog	Approved	gene with protein product		MGC10540, EAP20, DERP9	17q21.31	84313	ENSG00000131475	OTTHUMG00000180649	1117	ESCRT-II
+HGNC:20312	VPS36	vacuolar protein sorting 36 homolog	Approved	gene with protein product	C13orf9	CGI-145, Eap45	13q14.3	51028	ENSG00000136100	OTTHUMG00000016964	1117	ESCRT-II
+HGNC:30216	CHMP2A	charged multivesicular body protein 2A	Approved	gene with protein product		BC-2, CHMP2, VPS2, VPS2A	19q13.43	27243	ENSG00000130724	OTTHUMG00000183547	1118	ESCRT-III
+HGNC:24537	CHMP2B	charged multivesicular body protein 2B	Approved	gene with protein product		DKFZP564O123, CHMP2.5, VPS2B	3p11.2	25978	ENSG00000083937	OTTHUMG00000158982	1118	ESCRT-III
+HGNC:29865	CHMP3	charged multivesicular body protein 3	Approved	gene with protein product	VPS24	NEDF, CGI-149	2p11.2	51652	ENSG00000115561	OTTHUMG00000153189	1118	ESCRT-III
+HGNC:20274	CHMP4A	charged multivesicular body protein 4A	Approved	gene with protein product	C14orf123	HSPC134, VPS32A	14q12	29082	ENSG00000254505	OTTHUMG00000167036	1118	ESCRT-III
+HGNC:16171	CHMP4B	charged multivesicular body protein 4B	Approved	gene with protein product	C20orf178	dJ553F4.4, Shax1, SNF7-2, VPS32B	20q11.22	128866	ENSG00000101421	OTTHUMG00000032272	1118	ESCRT-III
+HGNC:30599	CHMP4C	charged multivesicular body protein 4C	Approved	gene with protein product		MGC22825, Shax3, VPS32C	8q21.13	92421	ENSG00000164695	OTTHUMG00000164726	1118	ESCRT-III
+HGNC:25675	CHMP6	charged multivesicular body protein 6	Approved	gene with protein product		FLJ11749, VPS20	17q25.3	79643	ENSG00000176108	OTTHUMG00000177645	1118	ESCRT-III
+HGNC:8740	CHMP1A	charged multivesicular body protein 1A	Approved	gene with protein product	PRSM1, PCOLN3	KIAA0047, CHMP1, Vps46A	16q24.3	5119	ENSG00000131165	OTTHUMG00000169521	1119	ESCRT-III associated factors
+HGNC:24287	CHMP1B	charged multivesicular body protein 1B	Approved	gene with protein product		CHMP1.5, C18orf2, Vps46B	18p11.21	57132	ENSG00000255112	OTTHUMG00000165820	1119	ESCRT-III associated factors
+HGNC:26942	CHMP5	charged multivesicular body protein 5	Approved	gene with protein product	C9orf83, SNF7DC2	HSPC177, CGI-34, Vps60	9p13.3	51510	ENSG00000086065	OTTHUMG00000019765	1119	ESCRT-III associated factors
+HGNC:28439	CHMP7	charged multivesicular body protein 7	Approved	gene with protein product		MGC29816	8p21.3	91782	ENSG00000147457	OTTHUMG00000131785	1119	ESCRT-III associated factors
+HGNC:28977	IST1	IST1 factor associated with ESCRT-III	Approved	gene with protein product	KIAA0174	CHMP8	16q22.2	9798	ENSG00000182149	OTTHUMG00000137597	1119	ESCRT-III associated factors
+HGNC:13488	VPS4A	vacuolar protein sorting 4 homolog A	Approved	gene with protein product		VPS4, VPS4-1, FLJ22197, SKD2, SKD1, SKD1A	16q23.1	27183	ENSG00000132612	OTTHUMG00000175589	1120	ESCRT-IV
+HGNC:10895	VPS4B	vacuolar protein sorting 4 homolog B	Approved	gene with protein product	SKD1	VPS4-2, SKD1B	18q21.33	9525	ENSG00000119541	OTTHUMG00000132790	1120	ESCRT-IV
+HGNC:20954	VTA1	vesicle trafficking 1	Approved	gene with protein product	C6orf55	HSPC228, My012	6q24.1-q24.2	51534	ENSG00000009844	OTTHUMG00000015707	1120	ESCRT-IV

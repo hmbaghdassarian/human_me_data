@@ -1,0 +1,10 @@
+sep=,
+"HGNC ID (gene)","Approved symbol","Approved name","Previous symbols","Aliases","Chromosome"
+"HGNC:19085","CTDNEP1","CTD nuclear envelope phosphatase 1","DULLARD","HSA011916,NET56","17p13.1"
+"HGNC:2498","CTDP1","CTD phosphatase subunit 1","","FCP1","18q23"
+"HGNC:16890","CTDSPL","CTD small phosphatase like","C3orf8","HYA22,SCP3,PSR1,RBSP3","3p22.2"
+"HGNC:26936","CTDSPL2","CTD small phosphatase like 2","","HSPC129,FLJ10523","15q15.3-q21.1"
+"HGNC:21614","CTDSP1","CTD small phosphatase 1","","NLIIF,SCP1","2q35"
+"HGNC:17077","CTDSP2","CTD small phosphatase 2","","OS4,SCP2,PSR2","12q14.1"
+"HGNC:23656","TIMM50","translocase of inner mitochondrial membrane 50","","TIM50L,TIM50","19q13.2"
+"HGNC:28110","UBLCP1","ubiquitin like domain containing CTD phosphatase 1","","MGC10067,CPUB1","5q33.3"

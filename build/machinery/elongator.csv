@@ -1,0 +1,8 @@
+sep=,
+"HGNC ID (gene)","Approved symbol","Approved name","Previous symbols","Aliases","Chromosome"
+"HGNC:5959","ELP1","elongator complex protein 1","DYS,IKBKAP","IKAP,TOT1,IKI3","9q31.3"
+"HGNC:18248","ELP2","elongator acetyltransferase complex subunit 2","STATIP1","FLJ10879,StIP","18q12.2"
+"HGNC:20696","ELP3","elongator acetyltransferase complex subunit 3","","FLJ10422,KAT9","8p21.1"
+"HGNC:1171","ELP4","elongator acetyltransferase complex subunit 4","C11orf19","PAXNEB","11p13"
+"HGNC:30617","ELP5","elongator acetyltransferase complex subunit 5","C17orf81","DERP6","17p13.1"
+"HGNC:25976","ELP6","elongator acetyltransferase complex subunit 6","TMEM103,C3orf75","FLJ20211","3p21.31"

@@ -1,0 +1,9 @@
+sep=,
+"HGNC ID (gene)","Approved symbol","Approved name","Previous symbols","Aliases","Chromosome"
+"HGNC:19070","THOC1","THO complex 1","","P84,HPR1","18p11.32"
+"HGNC:19073","THOC2","THO complex 2","CXorf3,MRX12,MRX35","THO2,dJ506G2.1","Xq25"
+"HGNC:19072","THOC3","THO complex 3","","TEX1,MGC5469","5q35.2"
+"HGNC:19071","ALYREF","Aly/REF export factor","THOC4","ALY,BEF,ALY/REF,REF","17q25.3"
+"HGNC:19074","THOC5","THO complex 5","C22orf19","PK1.3,KIAA0983,Fmip,fSAP79","22q12.2"
+"HGNC:28369","THOC6","THO complex 6","WDR58","MGC2655,fSAP35","16p13.3"
+"HGNC:29874","THOC7","THO complex 7","","NIF3L1BP1,FLJ23445,fSAP24","3p14.1"

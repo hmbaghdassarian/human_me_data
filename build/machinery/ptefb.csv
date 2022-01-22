@@ -1,0 +1,8 @@
+sep=,
+"HGNC ID (gene)","Approved symbol","Approved name","Previous symbols","Aliases","Chromosome"
+"HGNC:1596","CCNK","cyclin K","","CPR4","14q32.2"
+"HGNC:1599","CCNT1","cyclin T1","HIVE1","CCNT,CYCT1","12q13.11-q13.12"
+"HGNC:1600","CCNT2","cyclin T2","","","2q21.3"
+"HGNC:1780","CDK9","cyclin dependent kinase 9","CDC2L4","PITALRE,C-2k,TAK","9q34.11"
+"HGNC:24953","HEXIM1","HEXIM P-TEFb complex subunit 1","","CLP-1,HIS1,MAQ1,EDG1","17q21.31"
+"HGNC:28591","HEXIM2","HEXIM P-TEFb complex subunit 2","","FLJ32384","17q21.31"
